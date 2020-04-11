@@ -20,6 +20,6 @@ server.get("/portfolio", function(req, resp) {
     return resp.render("portfolio", { items: videos })
 })
 
-server.listen(5000, function() {
+server.listen(3000, function() {
     console.log("server is running")
 })
