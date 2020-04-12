@@ -7,16 +7,17 @@
 {% block content %}
 
     <div id="wrapper">
-        <img src="https://avatars3.githubusercontent.com/u/26313317?s=460&v=4" alt="Carlos Anderson">
-        <h1>Carlos Anderson</h1>
-        <h2>FullStack Developer</h2>
-        <p>Focused on technologies for building systems from Backend to Frontend. </p>
+        <img src="{{ about.avatar_url }}" alt="Image of {{ about.name }}">
+        <h1> {{ about.name }} </h1>
+        <h2> {{ about.role }} </h2>
+        <p> {{ about.description }} </p>
     </div>
 
     <footer>
         <div id="links-footer" class="links">
-            <a href="https://github.com/karlscode" target="_blank">GitHub</a>
-            <a href="https://www.linkedin.com/in/carlos-anderson-ti/" target="_blank">LinkedIn</a>
+        {% for link in about.links %}
+            <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
+        {% endfor %}
         </div>
     </footer>
 
