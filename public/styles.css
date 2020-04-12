@@ -19,7 +19,7 @@ body {
 }
 
 header {
-    padding: 32px;
+    padding: 16px;
     border-bottom: 1px solid #333;
     background: rgba(0, 0, 0, 0.1);
 }
@@ -44,7 +44,7 @@ header {
 
 #wrapper {
     text-align: center;
-    padding: 32px;
+    padding: 18px;
 }
 
 #wrapper img {
@@ -52,10 +52,11 @@ header {
     border: 5px solid var(--color-efects);
     margin-bottom: 32px;
     height: 300px;
+    margin-top: 40px;
 }
 
 #wrapper h1 {
-    font-size: 42px;
+    font-size: 38px;
     line-height: 52px;
     font-weight: bold;
 }
