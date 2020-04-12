@@ -2,7 +2,7 @@ const express = require("express")
 const nunjucks = require("nunjucks")
 
 const server = express()
-const videos = require("./database/data")
+const videos = require("./database/videos")
 const about = require("./database/about")
 
 server.use(express.static("../public"))
