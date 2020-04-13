@@ -1,18 +1,20 @@
 <h4 align="center">
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h4>
+
 <br>
+
 <p align="center">
   <a href="">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/Be-The-Hero?color=red">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/Be-The-Hero?color=%23F8952D">
   </a>
 
-  <!-- <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
-  </a> -->
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+  </a>
 
   <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
   </a>
 
 </p>
@@ -20,7 +22,6 @@
 <br>
 
 <p align="center">
-  <a href="#bulb-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iniciando-com-front-end-rocket">Front-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iniciando-no-back-end-rocket">Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-e-agora">E agora</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
