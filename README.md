@@ -37,10 +37,14 @@ No módulo de Back-end no fomos introduzidos ao `nodejs` e `npm` para fazer a in
 - `Docker` definindo características do ambiente, executando container com NodeJS e inicializando Nodemon
 - `Docker Compose` orquestrando e compartilhando arquivos entre host e container
 
+## 🤔 E agora? 
+
+Como objetivo pessoal, não dou este projeto como finalizado. Aplicarei neste, melhorias ao longo da minha evolução como desenvolvedor.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-<br><br>
+<br>
 
 ---
 <br>
