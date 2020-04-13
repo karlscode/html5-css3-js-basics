@@ -17,6 +17,16 @@
 
 </p>
 
+<br>
+
+<p align="center">
+  <a href="#bulb-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iniciando-com-front-end-rocket">Front-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iniciando-no-back-end-rocket">Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-e-agora">E agora</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
 ## Iniciando com front-end :rocket:
 
 Neste módulo foram abordados diversos tópicos relacionados a front-end, sendo eles:
