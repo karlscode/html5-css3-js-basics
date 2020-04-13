@@ -34,6 +34,8 @@ No módulo de Back-end no fomos introduzidos ao `nodejs` e `npm` para fazer a in
 - `Express` para a criação do servidor e rotas
 - `Nodemon` para monitoramento dos arquivos e evitar o reinício manual do servidor
 - `Nunjucks` como template engine para um front-end mais dinâmico
+- `Docker` definindo características do ambiente, executando container com NodeJS e inicializando Nodemon
+- `Docker Compose` orquestrando e compartilhando arquivos entre host e container
 
 ## :memo: Licença
 

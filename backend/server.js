@@ -31,8 +31,7 @@ server.get("/video", function(req, resp) {
     })
     
     if (!video) {
-        resp.status = 404
-        return resp.send("Video not found!")
+        return resp.status(404).send("Video not found!")
     }
 
     return resp.render("video", { item: video })
