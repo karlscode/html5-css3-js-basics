@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/Be-The-Hero?color=%23F8952D">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/html5-css3-js-basics?color=%23F8952D">
   </a>
 
   <a href="https://rocketseat.com.br">
