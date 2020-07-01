@@ -1,6 +1,0 @@
-backend/node_modules
-npm-debug.log
-Dockerfile
-.gitignore
-.env
-.dockerignore
