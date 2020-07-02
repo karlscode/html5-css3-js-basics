@@ -1,62 +1,54 @@
 <h4 align="center">
-    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
-</h4>
+  <img src=".github/logo.png" width="65%" /><br><br>
 
-<br>
+  <b>“Nunca é tarde demais para ser aquilo que sempre desejou ser.”</b>
+</h4>
 
 <p align="center">
   <a href="">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/html5-css3-js-basics?color=%23F8952D">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/html5-css3-js-basics-basics?color=blue">
   </a>
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+  <a href="https://github.com/karlscode">
+    <img alt="Made by KarlsCode" src="https://img.shields.io/badge/made%20by-karlscode-orange">
   </a>
 
   <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-%23F8952D">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-yellow">
   </a>
-
 </p>
-
 <br>
-
 <p align="center">
-  <a href="#iniciando-com-front-end-rocket">Front-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iniciando-no-back-end-rocket">Back-end</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-e-agora">E agora</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-objective">Objective</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#balloon-still-in-this-repository">Repository</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#closed_book-license">License</a>
 </p>
-
-## Iniciando com front-end :rocket:
-
-Neste módulo foram abordados diversos tópicos relacionados a front-end, sendo eles:
-
-- A diferença entre Back-end e Front-end
-- Conceitos iniciais de HTML e CSS
-- Estrutura HTML
-- Espaçamento com CSS Grid Layout
-- Seleção e Manipulação dos elementos da DOM com Javascript
-
-## Iniciando no Back-end :rocket:
-
-No módulo de Back-end no fomos introduzidos ao `nodejs` e `npm` para fazer a instalação de alguns pacotes que foram utilizadas nesse módulo.
-
-- `Express` para a criação do servidor e rotas
-- `Nodemon` para monitoramento dos arquivos e evitar o reinício manual do servidor
-- `Nunjucks` como template engine para um front-end mais dinâmico
-- `Docker` definindo características do ambiente, executando container com NodeJS e inicializando Nodemon
-- `Docker Compose` orquestrando e compartilhando arquivos entre host e container
-
-## 🤔 E agora? 
-
-Como objetivo pessoal, não dou este projeto como finalizado. Aplicarei neste, melhorias ao longo da minha evolução como desenvolvedor.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-<br>
 
 ---
-<br>
-<p align="center">Feito de ❤️ por <strong>Carlos Anderson :rocket: </p>
+
+## 🎯 Objective
+Repository developed to store examples, exercises, tests and challenges proposed for learning HTML, CSS and JavaScript, regardless of the course.
+<br />
+
+## :balloon: Still in this repository...
+This repository is structured with directories in ascending numerical order, and there may be subdirectories.
+If you want to take a look at a file, for a better experience, I recommend installing [OctoTree](https://www.octotree.io/) in your browser.
+<br />
+
+## :rocket: Technologies
+This repository can receive updates and currently has the following technologies:
+- HTML
+- CSS
+- JavaScript
+- Express
+- Nodemon
+- Nunjucks
+- Dockerfile
+- Docker Compose
+
+## :closed_book: License
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
+
+---
+<p align="center">Made by <strong>Carlos Anderson</strong> <br /> ❤️ </p>
