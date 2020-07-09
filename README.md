@@ -1,12 +1,12 @@
 <h4 align="center">
-  <img src=".github/logo.png" width="65%" /><br><br>
+  <img src=".github/logo.png" width="35%" /><br>
 
   <b>“Nunca é tarde demais para ser aquilo que sempre desejou ser.”</b>
 </h4>
 
 <p align="center">
   <a href="">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/html5-css3-js-basics-basics?color=blue">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/karlscode/html5-css3-js-basics?color=blue">
   </a>
 
   <a href="https://github.com/karlscode">
